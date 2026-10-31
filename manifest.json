@@ -1,0 +1,61 @@
+{
+  "name": "Obsidian Silver",
+  "author": "INTE5HAR",
+  "manifest_version": 2,
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "obsidian-silver@inte5har.github.io"
+    }
+  },
+  "version": "1.0.1",
+  "description": "A near-black Firefox theme with light gray text and silver accents.",
+  "theme": {
+    "colors": {
+      "frame": "#0b0b0e",
+      "frame_inactive": "#0b0b0e",
+
+      "toolbar": "#1a1b22",
+      "toolbar_text": "#f4f5f7",
+      "toolbar_top_separator": "#1a1b22",
+      "toolbar_bottom_separator": "#2e303a",
+      "toolbar_vertical_separator": "#2e303a",
+
+      "tab_selected": "#1a1b22",
+      "tab_text": "#f4f5f7",
+      "tab_background_text": "#9aa0ad",
+      "tab_line": "#f4f5f7",
+      "tab_loading": "#f4f5f7",
+
+      "toolbar_field": "#0b0b0e",
+      "toolbar_field_text": "#f4f5f7",
+      "toolbar_field_border": "#2e303a",
+      "toolbar_field_focus": "#0b0b0e",
+      "toolbar_field_text_focus": "#f4f5f7",
+      "toolbar_field_border_focus": "#9aa0ad",
+      "toolbar_field_highlight": "#2e303a",
+      "toolbar_field_highlight_text": "#f4f5f7",
+
+      "button_background_hover": "rgba(244, 245, 247, 0.08)",
+      "button_background_active": "rgba(244, 245, 247, 0.14)",
+
+      "icons": "#9aa0ad",
+      "icons_attention": "#f4f5f7",
+      "bookmark_text": "#9aa0ad",
+
+      "popup": "#1a1b22",
+      "popup_text": "#f4f5f7",
+      "popup_border": "#2e303a",
+      "popup_highlight": "#2e303a",
+      "popup_highlight_text": "#f4f5f7",
+
+      "ntp_background": "#0b0b0e",
+      "ntp_text": "#9aa0ad",
+
+      "sidebar": "#1a1b22",
+      "sidebar_text": "#9aa0ad",
+      "sidebar_border": "#2e303a",
+      "sidebar_highlight": "#2e303a",
+      "sidebar_highlight_text": "#f4f5f7"
+    }
+  }
+}
