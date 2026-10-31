@@ -7,10 +7,10 @@ A minimal dark theme for Firefox, built on charcoal and frosted silver.
 > **Firefox only.** This theme works in Mozilla Firefox and is not compatible with other browsers.
 
 <!-- Toolbar preview: save as screenshots/preview.png -->
-![Obsidian Silver toolbar preview](screenshots/preview.png)
+![Obsidian Silver toolbar preview](screenshots/Obsidian-Silver.png)
 
 <!-- Full browser window: save as screenshots/firefox-window.png -->
-![Obsidian Silver in Firefox](screenshots/firefox-window.png)
+![Obsidian Silver in Firefox](screenshotsfirefox-window.png)
 
 ## Features
 
