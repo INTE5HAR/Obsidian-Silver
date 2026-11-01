@@ -37,6 +37,3 @@ Install from the Firefox Add-ons store:
 
 Once installed, the theme applies automatically. You can switch it off or change it from **Add-ons and Themes → Themes** in Firefox.
 
-## License
-
-[MIT](LICENSE)
